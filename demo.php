@@ -8,10 +8,10 @@
 $a=3;
 $a=6;
 echo "hello";
-return "asdf değiştis";
+return "asdf değişti";
 
 
-
+// sdsd
 
 
 
