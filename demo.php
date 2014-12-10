@@ -8,7 +8,7 @@
 $a=3;
 $a=6;
 echo "hello";
-return "asdf değişti";
+return "asdf değiştis";
 
 
 
